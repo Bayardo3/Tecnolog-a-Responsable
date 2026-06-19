@@ -1,2 +1,2 @@
-# Tecnolog-a-Responsable
+# Tecnologia-Responsable
 Comprendiendo la Obsolescencia Programada y la Basura Electrónica
