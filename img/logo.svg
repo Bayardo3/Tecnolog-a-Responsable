@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+<circle cx="150" cy="150" r="120" fill="#1565c0"/>
+<path d="M150 60 L220 150 L150 240 L80 150 Z" fill="#4CAF50"/>
+<text x="150" y="165" text-anchor="middle" fill="white" font-size="40">TR</text>
+</svg>
